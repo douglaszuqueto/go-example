@@ -1,6 +1,6 @@
 # Go Examples
 
-## Meus projetos e exemplos
+## Projetos e exemplos
 
 * [Microservice de usuário](https://github.com/douglaszuqueto/go-user-microservice)
 * [Microservice de autenticação/2FA](https://github.com/douglaszuqueto/go-auth-microservice)
