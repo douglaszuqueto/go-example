@@ -1,4 +1,4 @@
-# GO Examples
+# Go Examples
 
 ## Meus projetos e exemplos
 
